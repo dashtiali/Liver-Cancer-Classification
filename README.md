@@ -19,7 +19,6 @@ This repository contains required scripts for the classification of the two type
 
 ## Introduction
 
-Liver cancer is one of the most common and deadly forms of cancer worldwide.
 ...
 
 ## Features
