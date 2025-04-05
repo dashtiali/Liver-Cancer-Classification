@@ -1,4 +1,6 @@
+git+https://github.com/Cimagroup/vectorization-maps.git
 catboost==1.2.7
+gudhi==3.10.1
 lightgbm==4.5.0
 matplotlib==3.7.5
 numpy==2.1.3
