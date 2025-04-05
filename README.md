@@ -3,7 +3,7 @@
 
 # 🧬 Liver Cancer Classification
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=dashtiali/Liver-Cancer-Classification)
+![](https://api.visitorbadge.io/api/VisitorHit?user=dashtiali&repo=Liver-Cancer-Classification&countColor=%231f77b4)
 
 This repository contains the scripts used in the experiments for the project on:
 
