@@ -10,16 +10,6 @@ This repository contains the scripts used in the experiments for the project on:
 > 📜 [Leveraging Persistent Homology for Liver Tumour Classification](https://doi.org/10.1117/12.3045640)
 
 
-## 📚 Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Cite this Paper](#citation)
-
-
 ## 🧠 Introduction
 
 Distinguishing between intrahepatic cholangiocarcinoma (ICC) and hepatocellular carcinoma (HCC) in imaging is a difficult task for a radiologist. We endeavoured to develop reliable models to automatically classify these tumour types. 
